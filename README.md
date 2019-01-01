@@ -6,33 +6,34 @@
 
 - [**First Semester**](https://github.com/FCIS-Resources?q=topic%3Ageneral+topic%3Afirst-year+topic%3Afirst-semester)
 
-  - [Computational Linguistics](https://github.com/FCIS-Resources/computational-Linguistics)
-  - [Introduction to Computers](https://github.com/FCIS-Resources/introduction-to-computers)
-  - Humanities
-  - Maths 1
-  - Physics 1
-  - English 1
+  - [**`[HUM 113] Computational Linguistics`**](https://github.com/FCIS-Resources/computational-Linguistics)
+  - [**`[CHW 160] Introduction to Computers`**](https://github.com/FCIS-Resources/introduction-to-computers)
+  - **`[HUM 114] Humanities`**
+  - **`[BSC 120] Maths 1`**
+  - **`[BSC 125] Physics 1`**
+  - **`[HUM 110] English 1`**
 
 - [**Second Semester**](https://github.com/FCIS-Resources?q=topic%3Ageneral+topic%3Afirst-year+topic%3Asecond-semester)
 
-  - [Management](https://github.com/FCIS-Resources/management)
-  - [Structured Programming](https://github.com/FCIS-Resources/structured-programming)
-  - [Human Rights](https://github.com/FCIS-Resources/human-rights)
-  - Electronics
-  - Maths 2
-  - Physics 2
-  - English 2
+  - [**`[HUM 115] Management`**](https://github.com/FCIS-Resources/management)
+  - [**`[CSW 150] Structured Programming`**](https://github.com/FCIS-Resources/structured-programming)
+  - **`[BSC 121] Maths 2`**
+  - **`[BSC 126] Physics 2`**
+  - **`[BSC 127] Electronics`**
+  - **`[HUM 111] English 2`**
+  - [**`Human Rights`**](https://github.com/FCIS-Resources/human-rights)
+
 
 ### [General | Second Year](https://github.com/FCIS-Resources?q=topic%3Ageneral+topic%3Asecond-year)
 
 - [**First Semester**](https://github.com/FCIS-Resources?q=topic%3Ageneral+topic%3Asecond-year+topic%3Afirst-semester)
 
-  - [Maths 3](https://github.com/FCIS-Resources/maths-3)
-  - [Report Writing](https://github.com/FCIS-Resources/report-writing)
-  - Logic Design
-  - Data Structures
-  - Probability & Statistics
-  - Introduction to Information Systems
+  - [**`[BSC 222] Maths 3`**](https://github.com/FCIS-Resources/maths-3)
+  - [**`[HUM 212] Report Writing`**](https://github.com/FCIS-Resources/report-writing)
+  - **`[CHW 261] Logic Design`**
+  - **`[DBA 270] Data Structures`**
+  - **`[SCC 223] Probability & Statistics`**
+  - **`[INF 280] Introduction to Information Systems`**
 
 ## Folders Structure
 
